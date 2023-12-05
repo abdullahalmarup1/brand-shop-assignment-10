@@ -1,0 +1,82 @@
+[
+    {
+        "country": "Japan",
+        "brand_name": "Toyota",
+        "models":
+            "Camry, Corolla, Rav4"
+        ,
+        "logo_url": "https://i.ibb.co/7WC2QH4/toyota.jpg"
+    },
+    {
+        "country": "Japan",
+        "brand_name": "Nissan",
+        "models": 
+            "Altima,Maxima,Rogue"
+        ,
+        "logo_url": "https://i.ibb.co/gF0Yzjy/607-nissan-logo.jpg"
+    },
+    {
+        "country": "Germany",
+        "brand_name": "Mercedes-Benz",
+        "models": 
+            "C-Class,E-Class,S-Class"
+        ,
+        "logo_url": "https://i.ibb.co/NSY83Sh/Mercedes-Benz-Logo-11.jpg"
+    },
+    {
+        "country": "United States",
+        "brand_name": "Ford",
+        "models": 
+            "F-150, Mustang,Explorer"
+        ,
+        "logo_url": "https://i.ibb.co/MB3Vbjv/Free-Vector-Old-Ford-Motor-Company-Logo.jpg"
+    },
+    {
+        "country": "Japan",
+        "brand_name": "Honda",
+        "models": 
+            "Civic,Accord,CR-V"
+        ,
+        "logo_url": "https://i.ibb.co/6NTrJQ7/Honda-Logo.jpg"
+    },
+    {
+        "country": "Germany",
+        "brand_name": "BMW",
+        "models": 
+            "3 Series,5 Series, X5"
+        ,
+        "logo_url": "https://i.ibb.co/T8MXdgr/398-bmw.jpg"
+    },
+  {
+        "country": "United States",
+        "brand_name": "Tesla",
+        "models": 
+            "Model S, Model 3, Model X"
+        ,
+        "logo_url": "https://i.ibb.co/2YMdrCb/tesla.jpg"
+    },
+    {
+        "country": "Germany",
+        "brand_name": "Audi",
+        "models": 
+            "A4,Q5,A6",
+        "logo_url": "https://i.ibb.co/T23CtL2/Logo-audi.jpg"
+    },
+    {
+        "country": "Germany",
+        "brand_name": "Volkswagen",
+        "models": 
+            "Golf,Passat,Tiguan"
+        ,
+        "logo_url": "https://i.ibb.co/ZTLq9bf/volkswagen-logo-icon-24.jpg"
+    },
+    {
+        "country": "United States",
+        "brand_name": "Chevrolet",
+        "models": 
+            "Silverado,Equinox, Malibu"
+        ,
+        "logo_url": "https://i.ibb.co/6PCpNh4/Chevrolet-Logo-269386.jpg"
+    }
+
+]

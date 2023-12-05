@@ -1,0 +1,162 @@
+[
+    {
+        "image": "https://i.ibb.co/0thj29R/andre-tan-1.jpg",
+        "name": "Sedan X",
+        "brand_name": "ABC Motors",
+        "price": 35000,
+        "short_description": "A stylish sedan with advanced safety features. Experience opulence on the road with our luxury cruiser, blending sophisticated design, advanced technology, and unparalleled comfort.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/BVnZXsS/blake-meyer-CRNb-Hj-Naljo-2.jpg",
+        "name": "Explorer Pro",
+        "brand_name": "XYZ Vehicles",
+        "price": 45000,
+        "short_description": "An off-road SUV with cutting-edge technology. Conquer the toughest terrains with our rugged off-road adventurer, equipped with robust features for an adrenaline-pumping driving experience.",
+        "rating": 4.2
+    },
+    {
+        "image": "https://i.ibb.co/0JzxRd7/campbell-3-ZUs-NJhi-Ik-unsplash3.jpg",
+        "name": "Performance Brake Kit",
+        "brand_name": "BrakeMasters",
+        "price": 30000,
+        "short_description": "Upgrade your car's braking power with this kit.Navigate city streets with ease in our fuel-efficient commuter, offering an eco-friendly solution without compromising on style or performance.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/c241YsH/gijs-coolen-5rcxih1e44-unsplash.jpg",
+        "name": "City Commuter Bike",
+        "brand_name": "CycleTech",
+        "price": 12002,
+        "short_description": "Efficient and eco-friendly bike for urban commuting.Embrace family adventures in our spacious SUV, designed with safety, comfort, and ample cargo space to accommodate your entire crew.",
+        "rating": 4.0
+    },
+    {
+        "image": "https://i.ibb.co/QCpDFN8/dillon-kydd-SHXCj2-Syo7c-unsplash4.jpg",
+        "name": "Wireless Car Charger",
+        "brand_name": "TechGear",
+        "price": 50850,
+        "short_description": "Charge your phone on the go with this sleek car charger.Unleash the thrill of speed with our performance powerhouse, boasting a high-performance engine and cutting-edge technology for a dynamic ride.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/SwgRrj4/martin-katler-r9g-Eej-XAU3-Y-unsplash.jpg",
+        "name": "Electric Scooter E1000",
+        "brand_name": "EcoMotion",
+        "price": 18000,
+        "short_description": "A zero-emission electric scooter for city rides.Maneuver through urban landscapes effortlessly with our compact city companion, blending style and efficiency for urban dwellers on the go.",
+        "rating": 4.3
+    },
+    {
+        "image": "https://i.ibb.co/tXg2kdC/flavien-m-SC5-P8-M14-BM-unsplash6.jpg",
+        "name": "Compact Crossover",
+        "brand_name": "Global Autos",
+        "price": 28000,
+        "short_description": "Versatile crossover with a modern design. Feel the wind in your hair and the sun on your face with our convertible, delivering the ultimate freedom and a thrilling open-road experience.",
+        "rating": 4.1
+    },
+    {
+        "image": "https://i.ibb.co/F5ygfJv/kirill-petropavlov-AYF1-Nkng-Jxs-unsplash.jpg",
+        "name": "Synthetic Motor",
+        "brand_name": "EngineGuard",
+        "price": 40000,
+        "short_description": "Keep your engine running smoothly with this high-quality oil.Embrace the future of driving with our eco-friendly electric car, providing zero-emission travel without sacrificing style or innovation.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/JBtzcRY/nick-mercer-n-XTu-Gf2-Ig9-M-unsplash.jpg",
+        "name": "Mountain Bike X450",
+        "brand_name": "ExtremeCycles",
+        "price": 90000,
+        "short_description": "Conquer rough terrains with this rugged mountain bike.Turn heads with our classic retro revival, a timeless beauty that merges vintage aesthetics with modern technology for a nostalgic yet contemporary ride.",
+        "rating": 4.4
+    },
+    {
+        "image": "https://i.ibb.co/WF9vdNx/kartik-bhattacharjee-vw0-Amp-Zv-HZg-unsplash15.jpg",
+        "name": "Car Seat Organizer",
+        "brand_name": "TravelEssentials",
+        "price": 25567,
+        "short_description": "Keep your car neat and organized with this seat organizer.Stay connected and entertained on the road with our tech-savvy sedan, featuring the latest in-car technology for a seamless and enjoyable driving experience.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/gDJrCjV/oli-woodman-fw-YZ3-B-QQco-unsplash18.jpg",
+        "name": "Luxury Sedan Z",
+        "brand_name": "LuxuryAutomobiles",
+        "price": 55000,
+        "short_description": "Experience the epitome of luxury with this sedan.Navigate the urban jungle in style with our sleek urban runabout, offering a perfect blend of agility, efficiency, and modern design.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/LPRMKwW/tim-meyer-GIm7wxi-AZys-unsplash22.jpg",
+        "name": "Heavy-Duty Pickup",
+        "brand_name": "PowerCars",
+        "price": 60000,
+        "short_description": "A robust pickup truck built for heavy hauling.Elevate your family travels with our spacious minivan, prioritizing comfort, safety, and versatility for the entire family's convenience.",
+        "rating": 4.2
+    },
+    {
+        "image": "https://i.ibb.co/wpF4WZ7/rishab-lamichhane-ifl-RMZelx0-M-unsplash19.jpg",
+        "name": "High-Performance Exhaust",
+        "brand_name": "SpeedMasters",
+        "price": 56789,
+        "short_description": "Upgrade your vehicle's exhaust for better performance.Embark on cross-country adventures with our adaptable cruiser, designed for long journeys with a perfect balance of comfort and efficiency.",
+        "rating": 4.6
+    },
+    {
+        "image": "https://i.ibb.co/c241YsH/gijs-coolen-5rcxih1e44-unsplash.jpg",
+        "name": "Adventure Touring Bike",
+        "brand_name": "TouringCycles",
+        "price": 15987,
+        "short_description": "Explore the world on this versatile touring bike.Experience the excitement of sporty driving with our compact hatchback, combining agility, style, and practicality for a dynamic urban lifestyle.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/LC2Cfj6/zachary-edmundson-Yo-Bx-5o1-Pb-M-unsplash.jpg",
+        "name": "Smarty",
+        "brand_name": "GadgetGuard",
+        "price": 98563,
+        "short_description": "Securely mount you for hands-free driving.Step into the future of transportation with our high-tech autonomous vehicle, offering a safe and hands-free driving experience with cutting-edge autonomous technology.",
+        "rating": 4.8
+    },
+    {
+        "image": "https://i.ibb.co/vz94zB6/steven-binotto-o6y-H-y-Ac2-Ws-unsplash21.jpg",
+        "name": "Electric City Car",
+        "brand_name": "UrbanElectrics",
+        "price": 25000,
+        "short_description": "Efficient and compact electric car for city living.Transform your car into a weekend getaway camper, combining the convenience of a vehicle with the freedom of an adventure-ready camper for spontaneous road trips.",
+        "rating": 4.3
+    },
+    {
+        "image": "https://i.ibb.co/tDJ6TCs/zachary-edmundson-Yo-Bx-5o1-Pb-M-unsplash26.jpg",
+        "name": "Convertible Roadster",
+        "brand_name": "OpenAirAutos",
+        "price": 48000,
+        "short_description": "Feel the wind in your hair with this convertible roadster.Enjoy affordability without compromise with our budget-friendly compact car, delivering efficiency and style for those on a budget.",
+        "rating": 4.9
+    },
+    {
+        "image": "https://i.ibb.co/9gVRt2F/jakub-sisulak-Gqf-Rt-Ln-Gpm-I-unsplash-1.jpg",
+        "name": "High-Mileage Motor",
+        "brand_name": "MileageMaster",
+        "price": 452536,
+        "short_description": "Specially formulated for high-mileage vehicles.Make a statement on the business front with our executive sedan, tailored for professionals seeking comfort, elegance, and state-of-the-art features.",
+        "rating": 4.5
+    },
+    {
+        "image": "https://i.ibb.co/476vX6B/gijs-coolen-5rcxih1e44-unsplash.jpg",
+        "name": "Road Racing Bike",
+        "brand_name": "SpeedRacers",
+        "price": 563241,
+        "short_description": "Experience speed and agility with this racing bike.Adapt to various lifestyles with our versatile crossover SUV, offering the perfect balance of comfort, performance, and versatility for any adventure.",
+        "rating": 4.7
+    },
+    {
+        "image": "https://i.ibb.co/7S9RzCN/francesco-lo-giudice-A4-Ce-ha-N-k-I-unsplash.jpg",
+        "name": "Car's empire",
+        "brand_name": "ShineMaster",
+        "price": 30897,
+        "short_description": "Keep your car sparkling clean with this comprehensive kit.Unleash your creativity with our customizable tuner car, designed for car enthusiasts looking to personalize and enhance their driving experience.",
+        "rating": 4.8
+    }
+]
